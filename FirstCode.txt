@@ -2,4 +2,4 @@ Hello World!!
 take inputs from users
 add inputs
 
-submit data to the db
+submit data to the dbc
