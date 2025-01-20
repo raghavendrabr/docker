@@ -3,3 +3,4 @@ take inputs from users
 add inputs
 
 submit data to the dbc
+create avathar for user
