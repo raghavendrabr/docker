@@ -1,1 +1,3 @@
 Collect the user data 
+process the data
+login and logout
