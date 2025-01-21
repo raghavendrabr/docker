@@ -1,1 +1,7 @@
 add and remove users
+change the roles
+login and logout
+manage the db
+closing the connection
+change 1 
+channge 2
