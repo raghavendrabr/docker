@@ -4,4 +4,8 @@ login and logout
 manage the db
 closing the connection
 change 1 
+<<<<<<< HEAD
 channge 2 in harsh's db database
+=======
+channge 2 in harsh's db database1 and 2
+>>>>>>> feature3
